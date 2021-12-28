@@ -1,2 +1,3 @@
 # CBasis
-This repository is intended to store personal projects made in order to learn and apply C++ related knowledge
+This repository is intended to store personal projects made in order to learn and apply C++ related knowledge.
+Its projects focus C++'s standard library applications and usages.
